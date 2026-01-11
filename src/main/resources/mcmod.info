@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tan_potion_thirst_fix",
+  "name": "Tan Potion Thirst Fix",
+  "description": "Allows you to set up TAN Potion thirst rules.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["R4L_34"],
+  "credits": "R4L_34 for making this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
